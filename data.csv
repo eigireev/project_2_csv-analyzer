@@ -1,0 +1,9 @@
+Name,Age,City,Date,Salary
+Alice,30,New York,2023-01-15,60000
+Bob,25,Los Angeles,2023-02-20,55000
+Charlie,35,New York,2023-03-10,70000
+David,40,Chicago,2023-04-05,80000
+Eve,28,Los Angeles,2023-05-01,65000
+Frank, ,Chicago,2023-06-12,90000
+Grace,32, ,2023-07-18,75000
+Henry,45,New York, ,85000
